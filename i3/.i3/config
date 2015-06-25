@@ -170,4 +170,4 @@ workspace_auto_back_and_forth yes
 #--glx-no-stencil, --paint-on-overlay, --glx-no-rebind-pixmap, and --glx-swap-method 3 --vsync opengl --glx-use-copysubbuffermesa
 exec --no-startup-id gnome-settings-daemon
 exec --no-startup-id gnome-session-manager
-exec --no-startup-id /usr/bin/nm-applet
+###exec --no-startup-id /usr/bin/nm-applet
